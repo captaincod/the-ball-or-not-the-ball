@@ -1,4 +1,4 @@
-# Предсказывание нахождение шариков на картинке
+# Предсказывание нахождения шариков на картинке
 
 ![detected ball](https://github.com/captaincod/the-ball-or-not-the-ball/blob/4ede825cebed0b8b5f8f38510abc12eb853677a0/detected_ball.png)
 ![detected no ball](https://github.com/captaincod/the-ball-or-not-the-ball/blob/4ede825cebed0b8b5f8f38510abc12eb853677a0/detected_none.png)
